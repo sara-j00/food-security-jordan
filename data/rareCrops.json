@@ -1,0 +1,35 @@
+[
+  {
+    "id": "saffron",
+    "name": "Saffron",
+    "common_name": "Jordan Saffron",
+    "description": "Jordan’s first commercial saffron farm, Saffron Jo, is located in the Dahal area between Jerash and Mafraq. Saffron is a labor-intensive crop, requiring many flowers to produce just one gram of the valuable red stigmas. It thrives in cooler, mountainous regions and uses relatively little water, making it a suitable crop for water-scarce areas.",
+    "image": "img/jordanSaffron.jpg",
+    "annual_yield_tons": 0.5,
+    "economic_value_usd_per_kg": 5000,
+    "water_need_l_per_kg": 1500,
+    "harvest_season_months": 2
+  },
+  {
+    "id": "desert-truffles",
+    "name": "Desert Truffles",
+    "common_name": "Khalasi / Zubaidi",
+    "description": "Desert truffles, from the Terfezia and Tirmania species, are wild fungi highly valued locally. They grow in the eastern deserts of Jordan, especially around Ruwaished, and are typically harvested between February and April depending on rainfall. There is increasing interest in cultivating them or supporting sustainable harvesting due to their economic and nutritional importance.",
+    "image": "img/DesertTruffles.jpg",
+    "annual_yield_tons": 3,
+    "economic_value_usd_per_kg": 250,
+    "water_need_l_per_kg": 500,
+    "harvest_season_months": 3
+  },
+  {
+    "id": "rare-date-varieties",
+    "name": "Rare Date Varieties",
+    "common_name": "Jordanian Date Palms",
+    "description": "At the Karama Agricultural Research Station in Al-Balqa Governorate, around 20 rare varieties of date palms are preserved and studied. These varieties differ in harvest time, taste, resistance to heat and salinity, and shape. Date palms are well adapted to dry conditions, making the preservation and propagation of these rare types important for climate resilience.",
+    "image": "img/dates.jpg",
+    "annual_yield_tons": 50,
+    "economic_value_usd_per_kg": 10,
+    "water_need_l_per_kg": 3000,
+    "harvest_season_months": 5
+  }
+]

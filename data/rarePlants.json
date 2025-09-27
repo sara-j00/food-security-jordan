@@ -1,0 +1,35 @@
+[
+  {
+    "id": "iris-petrana",
+    "name": "Iris petrana",
+    "common_name": "Petra Iris",
+    "description": "The Petra iris is native to the desert sands of jordan. Its spring blooms range from burgundy and dark brown to deep violet or nearly black, with yellow or dark \"beards,\" rising above sword-like grey-green leaves. The plant grows 20-25 cm tall, holding each flower high to attract pollinators, It typically blooms between February and April, shortly after the spring rains, with flowers 5-7 cm across that make a striking display in the harsh desert landscape.",
+    "image": "img/IrisPetrana.jpg",
+    "height_cm": 25,
+    "bloom_months": 3,
+    "endangered_level": 4,
+    "region_count": 2
+  },
+  {
+    "id": "iris-nigricans",
+    "name": "Iris nigricans",
+    "common_name": "National Flower of Jordan",
+    "description": "Iris atrofusca is a flowering plant in the iris famity (Iridacee), It produces striking blackish-purple blossoms, each about 12-15 centimetres wide. The species thrives in full sunlight and requires sharply drained soil. Endemic to Jordan and considered endangered, Iris atrofusca grows in the countrys highland regions. including Madaba, Karak, and the Madaba-Amman area, where it flourishes on well-drained slopes and rocky terrain.",
+    "image": "img/IrisNigricans.jpg",
+    "height_cm": 40,
+    "bloom_months": 2,
+    "endangered_level": 5,
+    "region_count": 3
+  },
+  {
+    "id": "rheum-palaestinum",
+    "name": "Rheum palaestinum",
+    "common_name": "Desert Rhubarb",
+    "description": "The plant you're describing is Rheum palaestinum, commonly known as desert rhubarb. It is native to the mountainous regions of Palestine, and Jordan, thriving in arid environments above 850 meters. Key Features 1-Leaf Structure: Its broad, rigid leaves have a waxy surface and channels that funnel water toward the roots, allowing it to penetrate deep into the soil— a crucial adaptation for surviving in dry conditions 2-Water Harvesting Ability: The wrinkled leaf morphology is thought to trap condensed vapor rising from the ground, enabling the plant to capture moisture even when rainfall is scarce. 3-Habitat: Desert rhubarb grows among rocky terrain, cliffs, and desert. rocks, often in challenging, high- altitude environments.",
+    "image": "img/RheumPalaestinum.jpg",
+    "height_cm": 50,
+    "bloom_months": 4,
+    "endangered_level": 3,
+    "region_count": 4
+  }
+]
